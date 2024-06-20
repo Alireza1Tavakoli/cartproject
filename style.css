@@ -1,0 +1,34 @@
+@font-face {
+    font-family:"iranSans" ;
+    src: url(./font/IranianSans.ttf);
+}
+.containerFather{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    padding: 20px;
+}
+.containerText{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.h4Text{
+    color: white;
+
+}
+.spanText{
+    color: white;
+}
